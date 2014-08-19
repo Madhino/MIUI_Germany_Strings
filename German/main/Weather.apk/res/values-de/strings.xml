@@ -6,7 +6,7 @@
   <string name="act_aqi_so2_title">SO2</string>
   <string name="act_city_find_gps_error">Wähle eine Stadt manuell aus der Liste.</string>
   <string name="act_find_city_hint">Suchen</string>
-  <string name="act_find_city_hot_title">Beliebte St&#228;dte</string>
+  <string name="act_find_city_hot_title">Beliebte Städte</string>
   <string name="act_find_city_null_data">Keine Ergebnisse.</string>
   <string name="act_find_city_title">Ort hinzuf&#252;gen</string>
   <string name="act_init_dialog_finish">Globalw Wetter Information wurde hinzugef&#252;gt.</string>
